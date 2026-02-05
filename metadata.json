@@ -1,4 +1,4 @@
 {
-  "name": "F-1 Console Clone",
-  "description": "A high-fidelity clone of the F-1 Console New Project dashboard featuring a dark theme, grid layout, and responsive design."
+  "name": "F-1 Console",
+  "description": "A developer console for deploying games to the global edge, featuring a login screen and a new project dashboard with team management."
 }
